@@ -12,6 +12,8 @@ EWBF miner - https://github.com/nanopool/ewbf-miner/releases
 
 eth, 1%, 0.05
 
+zcl, 0.4%, 0.01
+
     Questions
 
 What is network difficulty and how does it affect mining? Difficulty affects blockmining sucess rate - higher difficulty = more shares
