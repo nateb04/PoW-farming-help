@@ -10,6 +10,7 @@ Pool information - cryptocurrency/blockchain, fee, min payout
 eth, 1%, 0.05
 
 Questions
+
 What is network difficulty and how does it affect mining? Difficulty affects blockmining sucess rate - higher difficulty = more shares
 
 Is the varying difficulty of a network random? Random within a limit
