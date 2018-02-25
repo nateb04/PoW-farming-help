@@ -1,8 +1,8 @@
-    Mining Research Compliation
+                                                    Mining Research Compliation
 
 Ethereum Mining Guide - https://mining.help/
 
-**Mining Programs**
+    Mining Programs
 
 Claymore Neoscrypt miner - https://bitcointalk.org/index.php?topic=3012600.0
 
