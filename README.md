@@ -10,9 +10,9 @@ EWBF miner - https://github.com/nanopool/ewbf-miner/releases
 
     Pool information - cryptocurrency/blockchain, fee, min payout
 
-eth, 1%, 0.05
+nanopool, eth, 1%, 0.05
 
-zcl, 0.4%, 0.01
+miningspeed, zcl, 0.4%, 0.01
 
     Questions
 
