@@ -1,16 +1,18 @@
-Mining Research Compliation
+    Mining Research Compliation
 
 Ethereum Mining Guide - https://mining.help/
 
-Mining Programs
+    Mining Programs
+
 Claymore Neoscrypt miner - https://bitcointalk.org/index.php?topic=3012600.0
+
 EWBF miner - https://github.com/nanopool/ewbf-miner/releases 
 
-Pool information - cryptocurrency/blockchain, fee, min payout
+    Pool information - cryptocurrency/blockchain, fee, min payout
 
 eth, 1%, 0.05
 
-Questions
+    Questions
 
 What is network difficulty and how does it affect mining? Difficulty affects blockmining sucess rate - higher difficulty = more shares
 
