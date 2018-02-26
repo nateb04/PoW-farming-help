@@ -8,6 +8,8 @@ Claymore Neoscrypt miner - https://bitcointalk.org/index.php?topic=3012600.0
 
 EWBF miner - https://github.com/nanopool/ewbf-miner/releases 
 
+HSRminer - https://bitcointalk.org/index.php?topic=2565979.0
+
     Pool information - cryptocurrency/blockchain, fee, min payout
 
 nanopool, eth, 1%, 0.05
