@@ -4,6 +4,7 @@ Ethereum Mining Guide - https://mining.help/
 
     Mining Programs
 
+Fastminer - https://github.com/fastminerX/fastminer/releases/tag/1.0
 Claymore Neoscrypt miner - https://bitcointalk.org/index.php?topic=3012600.0
 
 EWBF miner - https://github.com/nanopool/ewbf-miner/releases 
