@@ -4,13 +4,15 @@ Ethereum Mining Guide - https://mining.help/
 
     Mining Programs
 
-Fastminer - https://github.com/fastminerX/fastminer/releases/tag/1.0
+Claymore v11.4: https://bitcointalk.org/index.php?topic=1433925.0
 
-Claymore Neoscrypt miner - https://bitcointalk.org/index.php?topic=3012600.0
+Fastminer: https://github.com/fastminerX/fastminer/releases/tag/1.0
 
-EWBF miner - https://github.com/nanopool/ewbf-miner/releases 
+Claymore Neoscrypt miner: https://bitcointalk.org/index.php?topic=3012600.0
 
-HSRminer - https://bitcointalk.org/index.php?topic=2565979.0
+EWBF miner: https://github.com/nanopool/ewbf-miner/releases 
+
+HSRminer: https://bitcointalk.org/index.php?topic=2565979.0
 
     Pool information - cryptocurrency/blockchain, fee, min payout
 
