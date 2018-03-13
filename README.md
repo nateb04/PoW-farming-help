@@ -1,6 +1,6 @@
                                                   Mining Research Compliation
 
-Ethereum Mining Guide - https://mining.help/
+Ethereum Mining Guide: https://mining.help/
 
     Mining Programs
 
