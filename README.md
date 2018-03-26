@@ -8,6 +8,8 @@ Claymore v11.4: https://bitcointalk.org/index.php?topic=1433925.0
 
 Fastminer: https://github.com/fastminerX/fastminer/releases/tag/1.0
 
+Wolf's XMR/BCN/DSH CPU miner: https://bitcointalk.org/index.php?topic=632724.0
+
 Neoscrypt Justaminer fork: https://bitcointalk.org/index.php?topic=2765610.0
 
 Claymore Neoscrypt miner (AMD only): https://bitcointalk.org/index.php?topic=3012600.0
