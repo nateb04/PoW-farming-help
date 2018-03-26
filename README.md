@@ -6,6 +6,8 @@ Full coverage Ethereum Mining Guide: https://mining.help/
 
 Claymore v11.4: https://bitcointalk.org/index.php?topic=1433925.0
 
+Pheonix Miner 2.7: https://bitcointalk.org/index.php?topic=2647654.0
+
 Fastminer: https://github.com/fastminerX/fastminer/releases/tag/1.0
 
 Wolf's XMR/BCN/DSH CPU miner: https://bitcointalk.org/index.php?topic=632724.0
