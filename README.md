@@ -25,9 +25,9 @@ HSRminer: https://bitcointalk.org/index.php?topic=2565979.0
 
       //Pool information - cryptocurrency, fee, min payout
 
-nanopool, eth, 1%, 0.05
+nanopool, eth, 1%, 0.05 // COMMENT: Super stable no downtime since started mining.
 
-miningspeed, zcl, 0.4%, 0.01
+miningspeed, zcl, 0.4%, 0.01 // COMMENT: Some downtime and occasional unannounced server maintenance. 
 
       //FAQ
 
