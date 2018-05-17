@@ -5,10 +5,13 @@ Full coverage Ethereum Mining Guide: https://mining.help/
       //Mining Programs
 
 Claymore v11.4: https://bitcointalk.org/index.php?topic=1433925.0
+
 Hasrate List: https://bitcointalk.org/index.php?topic=3450623.0
 
 ETHlargementPill: https://github.com/OhGodACompany/OhGodAnETHlargementPill
+
 Hashrate results: https://github.com/OhGodACompany/OhGodAnETHlargementPill/wiki/Hashrate-Results
+
 Original post: https://bitcointalk.org/index.php?topic=3370685.0
 
 List of useful programs: https://bitcointalk.org/index.php?topic=3779939.0
