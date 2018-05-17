@@ -42,7 +42,6 @@ Full coverage Ethereum Mining Guide: https://mining.help/
 | Is the varying difficulty of a network random?  | 1 diff = 1 share - the higher the difficulty the less often shares are submitted. Shares with low difficulty are worth less than high difficulty shares. |
 | What causes invalid shares?   | OC settings, high temps, unstable blockchains or wifi connections |
 | What does T in Network difficulty mean? | Terrahashes (1k gh/s) |
-| What is the difference between Cuda8 and Cuda9 for NVIDIA gpus?  | Terrahashes (1k gh/s) |
 | What does T in Network difficulty mean? | 8 = compute 2.0-6.x, 9 =  compute 3.0-7x with Volta suport |
 | What does pool difficulty really mean / overall pool hash? | Less people mining on a pool means that your share % increases = more /block |
 | What is a DAG epoch?  | Ethhash uses DAG which is generated for each epoch (30,000 blocks or 100 hours) so a DAG can be generated in advanced to avoid long wait epoch transitions |
