@@ -36,7 +36,7 @@ Full coverage Ethereum Mining Guide: https://mining.help/
 
 What is network difficulty and how does it affect mining? 
 
-*A: Difficulty affects blockmining sucess rate - higher difficulty = more shares
+*A: Difficulty affects blockmining sucess rate - higher difficulty = more shares*
 
 Is the varying difficulty of a network random? 
 
