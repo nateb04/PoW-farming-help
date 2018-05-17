@@ -13,6 +13,8 @@ Original post: https://bitcointalk.org/index.php?topic=3370685.0
 
 List of useful programs: https://bitcointalk.org/index.php?topic=3779939.0
 
+CC Miner Optimised for PHI1162: https://github.com/216k155/ccminer-phi-anxmod#about-source-code-dependencies
+
 Pheonix Miner 2.7: https://bitcointalk.org/index.php?topic=2647654.0
 
 Fastminer: https://github.com/fastminerX/fastminer/releases/tag/1.0
