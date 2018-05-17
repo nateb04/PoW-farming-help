@@ -1,8 +1,8 @@
-                                                  Mining Research Compliation
+                                                 # Mining Research Compliation
 
 Full coverage Ethereum Mining Guide: https://mining.help/
 
-      //Mining Programs
+      //Claymore + related programs
 
 Claymore v11.4: https://bitcointalk.org/index.php?topic=1433925.0
 
@@ -14,7 +14,7 @@ Hashrate results: https://github.com/OhGodACompany/OhGodAnETHlargementPill/wiki/
 
 Original post: https://bitcointalk.org/index.php?topic=3370685.0
 
-List of useful programs: https://bitcointalk.org/index.php?topic=3779939.0
+      //Other Mining Programs
 
 CC Miner Optimised for PHI1162: https://github.com/216k155/ccminer-phi-anxmod#about-source-code-dependencies
 
