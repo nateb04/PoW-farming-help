@@ -1,4 +1,4 @@
-                                                  Mining Research Compliation
+                                                  PoW Repository
 
 Full coverage Ethereum Mining Guide: https://mining.help/
 
@@ -15,21 +15,21 @@ Full coverage Ethereum Mining Guide: https://mining.help/
 
 ## Other Mining Programs
 
-CC Miner Optimised for PHI1162: https://github.com/216k155/ccminer-phi-anxmod#about-source-code-dependencies
+- CC Miner Optimised for PHI1162: https://github.com/216k155/ccminer-phi-anxmod#about-source-code-dependencies
 
-Pheonix Miner 2.7: https://bitcointalk.org/index.php?topic=2647654.0
+- Pheonix Miner 2.7: https://bitcointalk.org/index.php?topic=2647654.0
 
-Fastminer: https://github.com/fastminerX/fastminer/releases/tag/1.0
+- Fastminer: https://github.com/fastminerX/fastminer/releases/tag/1.0
 
-Wolf's XMR/BCN/DSH CPU miner: https://bitcointalk.org/index.php?topic=632724.0
+- Wolf's XMR/BCN/DSH CPU miner: https://bitcointalk.org/index.php?topic=632724.0
 
-Neoscrypt Justaminer fork: https://bitcointalk.org/index.php?topic=2765610.0
+- Neoscrypt Justaminer fork: https://bitcointalk.org/index.php?topic=2765610.0
 
-Claymore Neoscrypt miner (AMD only): https://bitcointalk.org/index.php?topic=3012600.0
+- Claymore Neoscrypt miner (AMD only): https://bitcointalk.org/index.php?topic=3012600.0
 
-EWBF miner: https://github.com/nanopool/ewbf-miner/releases 
+- EWBF miner: https://github.com/nanopool/ewbf-miner/releases 
 
-HSRminer: https://bitcointalk.org/index.php?topic=2565979.0
+- HSRminer: https://bitcointalk.org/index.php?topic=2565979.0
 
 
 ## FAQ
