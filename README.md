@@ -1,20 +1,18 @@
-                                                 # Mining Research Compliation
+                                                  Mining Research Compliation
 
 Full coverage Ethereum Mining Guide: https://mining.help/
 
-      //Claymore + related programs
+## Claymore + related programs
+-Claymore v11.4: https://bitcointalk.org/index.php?topic=1433925.0
+-Hasrate List: https://bitcointalk.org/index.php?topic=3450623.0
 
-Claymore v11.4: https://bitcointalk.org/index.php?topic=1433925.0
+- ETHlargementPill: https://github.com/OhGodACompany/OhGodAnETHlargementPill
 
-Hasrate List: https://bitcointalk.org/index.php?topic=3450623.0
+- Hashrate results: https://github.com/OhGodACompany/OhGodAnETHlargementPill/wiki/Hashrate-Results
 
-ETHlargementPill: https://github.com/OhGodACompany/OhGodAnETHlargementPill
+- Original post: https://bitcointalk.org/index.php?topic=3370685.0
 
-Hashrate results: https://github.com/OhGodACompany/OhGodAnETHlargementPill/wiki/Hashrate-Results
-
-Original post: https://bitcointalk.org/index.php?topic=3370685.0
-
-      //Other Mining Programs
+## Other Mining Programs
 
 CC Miner Optimised for PHI1162: https://github.com/216k155/ccminer-phi-anxmod#about-source-code-dependencies
 
@@ -32,13 +30,8 @@ EWBF miner: https://github.com/nanopool/ewbf-miner/releases
 
 HSRminer: https://bitcointalk.org/index.php?topic=2565979.0
 
-      //Pool information - cryptocurrency, fee, min payout
 
-nanopool, eth, 1%, 0.05 // COMMENT: Super stable no downtime since started mining.
-
-miningspeed, zcl, 0.4%, 0.01 // COMMENT: Some downtime and occasional unannounced server maintenance. 
-
-      //FAQ
+## FAQ
 
 What is network difficulty and how does it affect mining? Difficulty affects blockmining sucess rate - higher difficulty = more shares
 
