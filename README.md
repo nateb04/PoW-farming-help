@@ -15,6 +15,8 @@ Full coverage Ethereum Mining Guide: https://mining.help/
 
 ## Other Mining Programs
 
+- Z enemny: https://bitcointalk.org/index.php?topic=3378390.0
+
 - CC Miner Optimised for PHI1162: https://github.com/216k155/ccminer-phi-anxmod#about-source-code-dependencies
 
 - Pheonix 2.7: https://bitcointalk.org/index.php?topic=2647654.0
