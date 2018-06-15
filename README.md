@@ -32,7 +32,11 @@ Full coverage Ethereum Mining Guide: https://mining.help/
 
 - CryptoDredge 0.4.0: https://bitcointalk.org/index.php?topic=4129696.0
 
+- T-Rex Minerhttps://bitcointalk.org/index.php?topic=4432704.0
+
 ## Other Mining Programs
+
+- Delos: https://bitcointalk.org/index.php?topic=4344544.0
 
 - Z enemny: https://bitcointalk.org/index.php?topic=3378390.0
 
