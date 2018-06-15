@@ -34,7 +34,7 @@ Full coverage Ethereum Mining Guide: https://mining.help/
 
 - CryptoDredge 0.4.0: https://bitcointalk.org/index.php?topic=4129696.0
 
-- T-Rex Minerhttps://bitcointalk.org/index.php?topic=4432704.0
+- T-Rex Miner: https://bitcointalk.org/index.php?topic=4432704.0
 
 - Fastminer: https://github.com/fastminerX/fastminer/releases/tag/1.0
 
