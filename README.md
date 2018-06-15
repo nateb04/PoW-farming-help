@@ -22,6 +22,8 @@ Full coverage Ethereum Mining Guide: https://mining.help/
 
 - DTSM: https://bitcointalk.org/index.php?topic=2021765.0 
 
+- Claymore AMD: https://bitcointalk.org/index.php?topic=1670733.0
+
 ## Cryptonote/Crytonite Miners
 
 - JCE Cryptonight CPU Miner: https://bitcointalk.org/index.php?topic=3281187.0
@@ -33,6 +35,8 @@ Full coverage Ethereum Mining Guide: https://mining.help/
 - CryptoDredge 0.4.0: https://bitcointalk.org/index.php?topic=4129696.0
 
 - T-Rex Minerhttps://bitcointalk.org/index.php?topic=4432704.0
+
+- Fastminer: https://github.com/fastminerX/fastminer/releases/tag/1.0
 
 ## Other Mining Programs
 
@@ -47,8 +51,6 @@ Full coverage Ethereum Mining Guide: https://mining.help/
 - CC Miner Optimised for PHI1162: https://github.com/216k155/ccminer-phi-anxmod#about-source-code-dependencies
 
 - Pheonix 3.0: https://bitcointalk.org/index.php?topic=2647654.0
-
-- Fastminer: https://github.com/fastminerX/fastminer/releases/tag/1.0
 
 - Neoscrypt Justaminer fork: https://bitcointalk.org/index.php?topic=2765610.0
 
