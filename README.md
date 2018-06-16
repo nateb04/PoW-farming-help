@@ -58,6 +58,10 @@ Full coverage Ethereum Mining Guide: https://mining.help/
 
 - HSRminer: https://bitcointalk.org/index.php?topic=2565979.0
 
+- All-in-miner profit switching for NVIDIA: https://bitcointalk.org/index.php?topic=4383637.0
+
+- NEMOSminer Multialgo: https://bitcointalk.org/index.php?topic=1777336.0
+
 ## FAQ
 
 | Question | Answer |
