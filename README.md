@@ -38,6 +38,14 @@ Full coverage Ethereum Mining Guide: https://mining.help/
 
 - Fastminer: https://github.com/fastminerX/fastminer/releases/tag/1.0
 
+## Profit Switching
+
+- All-in-miner profit switching for NVIDIA: https://bitcointalk.org/index.php?topic=4383637.0
+
+- NEMOSminer Multialgo: https://bitcointalk.org/index.php?topic=1777336.0
+
+- Forager 1.7: https://bitcointalk.org/index.php?topic=3516114.0
+
 ## Other Mining Programs
 
 - ETN and patched Cryptonite miners: https://bitcointalk.org/index.php?topic=2345911.0
@@ -57,10 +65,6 @@ Full coverage Ethereum Mining Guide: https://mining.help/
 - Claymore Neoscrypt (AMD only): https://bitcointalk.org/index.php?topic=3012600.0
 
 - HSRminer: https://bitcointalk.org/index.php?topic=2565979.0
-
-- All-in-miner profit switching for NVIDIA: https://bitcointalk.org/index.php?topic=4383637.0
-
-- NEMOSminer Multialgo: https://bitcointalk.org/index.php?topic=1777336.0
 
 ## FAQ
 
