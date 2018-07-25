@@ -4,6 +4,8 @@ Full coverage Ethereum Mining Guide: https://mining.help/
 
 ## Claymore + related programs
 
+- Ethminer: https://github.com/ethereum-mining/ethminer
+
 - Claymore v11.4: https://bitcointalk.org/index.php?topic=1433925.0
 
 - Hasrate List: https://bitcointalk.org/index.php?topic=3450623.0
