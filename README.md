@@ -1,10 +1,16 @@
                                                   PoW Repository
 
+## Rig Setup Programs
+
+Display Driver Uninstaller: http://www.guru3d.com/files-details/display-driver-uninstaller-download.html
+
+Gigabypte Mining Mode BIOS: https://www.gigabyte.com/MicroSite/462/mining.html
+
 Full coverage Ethereum Mining Guide: https://mining.help/
 
 ## Claymore + related programs
 
-- Ethminer: https://github.com/ethereum-mining/ethminer
+- Ethminer: https://github.com/ethereum-mining/ethminer/releases
 
 - Claymore v11.4: https://bitcointalk.org/index.php?topic=1433925.0
 
