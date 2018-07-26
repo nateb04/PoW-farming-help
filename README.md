@@ -4,7 +4,7 @@
 
 Display Driver Uninstaller: http://www.guru3d.com/files-details/display-driver-uninstaller-download.html
 
-Gigabypte Mining Mode BIOS: https://www.gigabyte.com/MicroSite/462/mining.html
+Gigabyte Mining Mode BIOS: https://www.gigabyte.com/MicroSite/462/mining.html
 
 Full coverage Ethereum Mining Guide: https://mining.help/
 
