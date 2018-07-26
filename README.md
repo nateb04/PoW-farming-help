@@ -85,11 +85,3 @@ Full coverage Ethereum Mining Guide: https://mining.help/
 | What does T in Network difficulty mean? | Terrahashes (1k gh/s) |
 | What does pool difficulty really mean / overall pool hash? | Less people mining on a pool means that your share % increases = more /block |
 | What is a DAG epoch?  | Ethhash uses DAG which is generated for each epoch (30,000 blocks or 100 hours) so a DAG can be generated in advanced to avoid long wait epoch transitions |
-
-## Claymore OC 
-
-| GPU Model | CC | MC | TDP |
-| --- | --- | --- | --- |
-| 1070 FE | -15 | +710 | 65% |
-| 1070 other | -15 | +710 | 60% |
-| 1080ti FE | -15 | +710 | 60% |
