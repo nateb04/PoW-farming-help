@@ -8,6 +8,8 @@ Gigabyte Mining Mode BIOS: https://www.gigabyte.com/MicroSite/462/mining.html
 
 Full coverage Ethereum Mining Guide: https://mining.help/
 
+Fake No Fee: https://github.com/d3z00r/claymore10.3-no-fee/issues/9 (consistently under 10-20mh average pool side reported)
+
 ## Claymore + related programs
 
 - Ethminer: https://github.com/ethereum-mining/ethminer/releases
