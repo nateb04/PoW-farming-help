@@ -12,6 +12,8 @@ Full coverage Ethereum Mining Guide: https://mining.help/
 
 Fake No Fee: https://github.com/d3z00r/claymore10.3-no-fee/issues/9 (consistently under 10-20mh average pool side reported)
 
+Demion original post: https://github.com/Demion/nodevfee/issues/28#issuecomment-366338759 (Demion removed the post, but told people to search it and test it on their own if they were unsure)
+
 ## Claymore + related programs
 
 - Ethminer: https://github.com/ethereum-mining/ethminer/releases
