@@ -30,6 +30,8 @@ Demion original post: https://github.com/Demion/nodevfee/issues/28#issuecomment-
 
 ## Equihash Miners
 
+- Funakoshi (144,5) parameter: https://bitcointalk.org/index.php?topic=4546645.0
+
 - Bminer: https://bitcointalk.org/index.php?topic=2519271.0
 
 - EWBF: https://github.com/nanopool/ewbf-miner/releases 
